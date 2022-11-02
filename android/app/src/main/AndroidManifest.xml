@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.cofi">
+    package="dev.rachman.cofi">
    <application
         android:label="cofi"
         android:name="${applicationName}"

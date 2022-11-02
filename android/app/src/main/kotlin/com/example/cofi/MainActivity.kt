@@ -1,4 +1,4 @@
-package com.example.cofi
+package dev.rachman.cofi
 
 import io.flutter.embedding.android.FlutterActivity
 
