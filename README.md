@@ -1,6 +1,7 @@
+
 # cofi
 
-A new Flutter project.
+<img width="1600" alt="Final End" src="https://user-images.githubusercontent.com/46337752/199519486-5b229895-59f0-47fa-848a-3d5063ed56bb.png">
 
 ## Getting Started
 
